@@ -20,7 +20,7 @@ Punkt wejścia do notatek.
 | Ctrl+Shift+P → „Notes: Przywróć karty z…” | karty z wybranego urządzenia |
 
 ## System
-- Instrukcja i rozwiązywanie problemów: `.system/INSTRUKCJA.md` w folderze nadrzędnym (repo systemowe).
+- [Instrukcja obsługi i opis działania systemu](../.system/INSTRUKCJA.md) (folder `.system` jest ukryty w eksploratorze; Ctrl+klik otwiera plik)
 
 ## Ważne
 - [[przyklad]]
