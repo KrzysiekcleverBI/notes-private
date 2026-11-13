@@ -24,3 +24,10 @@ Punkt wejścia do notatek.
 
 ## Ważne
 - [[przyklad]]
+
+## Indeks notatek
+Jednozdaniowy opis każdej notatki, utrzymywany przez Claude (nie edytuj ręcznie między znacznikami).
+
+<!-- indeks:start -->
+- [[przyklad]] — przykładowa notatka pokazująca linki, backlinki i tagi w Foam.
+<!-- indeks:end -->
