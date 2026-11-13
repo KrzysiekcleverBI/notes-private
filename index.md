@@ -2,12 +2,12 @@
 
 Punkt wejścia do notatek.
 
-## Struktura (prywatne)
+## Struktura (to repo: prywatne)
 - `inbox/` — szybkie zapiski (Alt+N). Raz w tygodniu przejrzyj i przenieś do `notes/` albo usuń.
 - `notes/` — uporządkowana wiedza. Linkuj notatki przez `[[nazwa-notatki]]`.
 - `daily/` — notatki dzienne (Alt+D, z Foam).
 - `attachments/` — obrazki i pliki wklejane do notatek.
-- `work/` — **osobne repo zawodowe** (organizacja): klienci, projekty, marketing, wiedza. Zobacz [[work/index]].
+- Notatki zawodowe są w osobnym repo `work/` (folder obok tego): klienci, projekty, marketing, wiedza.
 
 ## Skróty
 | Skrót | Co robi |
@@ -20,7 +20,7 @@ Punkt wejścia do notatek.
 | Ctrl+Shift+P → „Notes: Przywróć karty z…” | karty z wybranego urządzenia |
 
 ## System
-- [Instrukcja i rozwiązywanie problemów](.system/INSTRUKCJA.md)
+- Instrukcja i rozwiązywanie problemów: `.system/INSTRUKCJA.md` w folderze nadrzędnym (repo systemowe).
 
 ## Ważne
 - [[przyklad]]
