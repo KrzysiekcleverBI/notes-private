@@ -1,0 +1,11 @@
+# system
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+
+# Obsidian / lokalne rzeczy
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
